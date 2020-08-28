@@ -1,0 +1,11 @@
+
+ Consignas: 
+✔ 1. Maquetar la 3 pantallas tal cual se las ve en las imágenes @done(20-08-27 06:38)
+✔ 2. Agregarle los links para navegación entre las 3 pantallas @done(20-08-27 06:39)
+✔ 3. Cargar datos por defecto @done(20-08-25 22:50)
+✔ 4. En la plantilla de "1.jpg" en el titulo de cada producto que al clickear haga lo siguiente: @done(20-08-27 06:51)
+   ✔ A- Abra un modal y precargue un detalle del producto seleccionado. @done(20-08-25 22:46)
+   ☐ B- El modal deberá ser uno solo y los datos se deberán cargar dinámicamente en el por medio de javascript.
+
+
+

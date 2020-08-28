@@ -1,0 +1,28 @@
+{
+   "productos": [
+      {
+         "id":1,
+         "nombre":"Technoshaft",
+         "precio":30000,
+         "data":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit praesentium inventore voluptates nam",
+         "imagen":"medidor.jpg"
+         
+      },
+      {
+         "id":2,
+         "nombre":"Multiplex 3.0",
+         "precio":30000,
+         "data":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit praesentium inventore voluptates nam",
+         "imagen":"multiplex.png"
+         
+      },
+      {
+         "id":3,
+         "nombre":"Piloto Automático",
+         "precio":2000,
+         "data":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fugit praesentium inventore voluptates nam",
+         "imagen":"piloto.jpg"
+         
+      }
+   ]
+}
